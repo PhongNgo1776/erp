@@ -4,7 +4,7 @@ import java.lang.reflect.Field;
 
 public class Test {
 	public static void main(String[] args) throws NoSuchFieldException, SecurityException, IllegalArgumentException, IllegalAccessException {
-		String a = null;
+		String a = "";
 		System.out.println(a.toString());
 	}
 	
